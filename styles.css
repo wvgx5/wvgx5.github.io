@@ -443,11 +443,11 @@ a.btn:active {
 
 /* Services */
 .theme {
-  background-color: #000;
+  background-color: #111;
 }
 
 .theme .title {
-  color: #fff;
+  color: white;
 }
 
 .services-center {
@@ -457,7 +457,7 @@ a.btn:active {
 }
 
 .service {
-  color: #fff;
+  color: white;
   background-color: #111;
   padding: 2rem;
   text-align: center;
@@ -617,11 +617,13 @@ a.btn:active {
 
 .left h2 {
   font-size: 2rem;
+  color: white;
 }
 
 .left p {
   font-size: 1.5rem;
   margin-bottom: 2rem;
+  color: white;
 }
 
 .left div {
@@ -632,6 +634,7 @@ a.btn:active {
 
 .left div .content {
   text-align: left;
+  color: white;
 }
 
 .left .icon {
@@ -643,6 +646,7 @@ a.btn:active {
 .form h2 {
   font-size: 2rem;
   margin-bottom: 1rem;
+  color: white;
 }
 
 .form input,
@@ -683,6 +687,7 @@ a.btn:active {
 
   .left div .content h3 {
     font-size: 1.6rem;
+	
   }
 
   .left div .content span {
